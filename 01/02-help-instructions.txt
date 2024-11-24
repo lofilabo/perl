@@ -1,0 +1,11 @@
+Steps to set up for .xml etc files:
+
+0. sudo cpan App::cpanminus
+
+1. sudo cpan Spreadsheet::Read
+
+2. sudo cpan Spreadsheet::ParseExcel
+
+3. sudo cpan Spreadsheet::XLSX
+
+
